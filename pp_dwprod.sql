@@ -1,7 +1,7 @@
 -- PP Revenue; DWPROD aggregation
 
 SET @start_date = '2017-02-01 00:00:00';
-SET @end_date = '2017-03-02 00:00:00';
+SET @end_date = '2017-03-30 00:00:00';
 
 -- SET property;
 -- SET account_manager;
